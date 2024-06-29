@@ -30,6 +30,11 @@ El último archivo contiene la modelización con efectos aleatorios utilizando u
 3. El archivo "proporcios" contiene las proporciones de las respuestas de hombres y mujeres de la encuesta de magisterio
 4. El archivo "responses" contiene los datos de la encuesta realizada en Bratislava
 
+## Versión de R Utilizada
+version 4.2.1 (2022-06-23 ucrt) -- "Funny-Looking Kid"
+Copyright (C) 2022 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
 ## Paquetes utilizados y su función en el TFM
 - **tidyr**: Limpieza y estructura de datos.
 - **dplyr**: Manipulación y transformación de datos.
