@@ -2,15 +2,17 @@ Trabajo de fin de máster de bioestadística:
 ================
 Comparación de métodos paramétricos y no paramétricos para variables Likert.
 
-# Archivos
-Los siete primeros archivos de la carpeta "codigo r" contienen las siguientes modelizaciones:
-1. Modelo frecuentista de regresión ordinal
-2. Modelo bayesiano de regresión ordinal
-3. Modelo de ecuaciones estructurales
-4. Prueba de Mann Whitney U
-5. Prueba de Chi cuadrado
+## Modelos y Análisis en la Carpeta "codigo r"
 
-El último archivo contiene la modelización con efectos aleatorios con un modelo simple y otro de regresión ordinal
+Los siete primeros archivos de la carpeta `codigo r` contienen las siguientes modelizaciones:
+
+1. **Modelo frecuentista de regresión ordinal**: Análisis de datos ordinales utilizando métodos frecuentistas.
+2. **Modelo bayesiano de regresión ordinal**: Análisis de datos ordinales utilizando métodos bayesianos.
+3. **Modelo de ecuaciones estructurales**: Modelado de relaciones entre variables observadas y latentes.
+4. **Prueba de Mann Whitney U**: Prueba no paramétrica para comparar dos muestras independientes.
+5. **Prueba de Chi cuadrado**: Prueba estadística para determinar la independencia entre variables categóricas.
+
+El último archivo contiene la modelización con efectos aleatorios utilizando un modelo simple y un modelo de regresión ordinal.
 
 ## Codigo R:
 1. Los cinco modelos aplicados a los datos originales de la encuesta de magisterio TPACK de la Cátedra de Brecha de Género
