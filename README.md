@@ -29,13 +29,13 @@ El último archivo contiene la modelización con efectos aleatorios con un model
 4. El archivo "responses" contiene los datos de la encuesta realizada en Bratislava
 
 ## Paquetes utilizados y su función en el TFM
-1. tidyr: Para limpiar y dar forma a los datos de manera estructurada.
-2. dplyr: Para manipular y transformar datos de manera eficiente.
-3. ggplot2: Para crear gráficos y visualizaciones de datos de alta calidad.
-4. nortest: Para realizar pruebas de normalidad en los datos.
-5. car: Para realizar análisis de regresión y otros análisis lineales avanzados.
-6. ordinal: Para modelos de regresión ordinal.
-7. lavaan: Para modelado de ecuaciones estructurales.
-8. brms: Para modelos bayesianos utilizando la interfaz de Stan.
-9. MASS: Para funciones y datasets en análisis estadístico aplicados.
-10. lme4: Para ajustar modelos lineales y no lineales mixtos.
+- **tidyr**: Limpieza y estructura de datos.
+- **dplyr**: Manipulación y transformación de datos.
+- **ggplot2**: Creación de gráficos y visualizaciones.
+- **nortest**: Pruebas de normalidad en los datos.
+- **car**: Análisis de regresión y análisis lineales avanzados.
+- **ordinal**: Modelos de regresión ordinal.
+- **lavaan**: Modelado de ecuaciones estructurales.
+- **brms**: Modelos bayesianos con interfaz de Stan.
+- **MASS**: Funciones y datasets para análisis estadístico.
+- **lme4**: Modelos lineales y no lineales mixtos.
